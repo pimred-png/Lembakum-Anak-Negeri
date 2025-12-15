@@ -1,0 +1,8 @@
+{
+  "name": "Lembakum",
+  "description": "A comprehensive legal assistance and community platform offering consultation, mediation, and forum discussio",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
